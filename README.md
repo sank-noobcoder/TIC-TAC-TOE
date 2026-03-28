@@ -29,7 +29,8 @@ A visually striking, responsive Tic-Tac-Toe game featuring a deep-space aestheti
 * **Match three symbols horizontally, vertically, or diagonally to win.
 * **A red line will strike through the winning pattern.
 * **Press the Reset button at the bottom to play again.
-##📂 File Structure
+## 📂 File Structure
+
 * ├── index.html      # Game structure and Shooting Star elements
 * ├── style.css       # Starry background, animations, and responsive grid
 * └── script.js      # Win logic and Computer AI
