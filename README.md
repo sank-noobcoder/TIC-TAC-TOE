@@ -2,7 +2,7 @@
 
 A visually striking, responsive Tic-Tac-Toe game featuring a deep-space aesthetic, animated shooting stars, and an integrated computer opponent.
 
-![Project Preview](https://via.placeholder.com/800x400?text=Neon+Tic+Tac+Toe+Preview) ## ✨ Features
+ ## ✨ Features
 
 * **Play vs Computer:** An automated opponent that picks moves randomly from available slots.
 * **Night Sky Aesthetic:** A dynamic background with a twinkling star field and CSS-animated shooting stars.
